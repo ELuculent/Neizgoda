@@ -1,0 +1,11 @@
+{
+    "defaultSettings": {
+        "prefix": "\\",
+        "welcomes": true,
+        "leaves": true,
+        "welcomeMsg": "$user$ has joined the server",
+        "leaveMsg": "$user$ has left the server"
+    },
+
+    "owner": "145090596996907017"
+}
