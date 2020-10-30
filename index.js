@@ -1,4 +1,1 @@
-const {init} = require('./main.js');
-const config = require('./config.json');
-
-init(config);
+require('./main.js').init(require('./config.json')); // Ugly require/init to start the bot
